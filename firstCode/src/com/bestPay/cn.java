@@ -10,5 +10,7 @@ public class cn {
         System.out.println("Hello git");
 
         System.out.println("我是最牛逼的");
+
+        System.out.println("20200404");
     }
 }
