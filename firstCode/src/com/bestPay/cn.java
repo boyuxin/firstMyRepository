@@ -8,5 +8,7 @@ package com.bestPay;
 public class cn {
     public static void main(String[] args) {
         System.out.println("Hello git");
+
+        System.out.println("我是最牛逼的");
     }
 }
